@@ -1,0 +1,17 @@
+* {
+	color: #0080FF;
+}
+
+body {
+	text-align: center;
+	background-color: #2D3742;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+ul li {
+	list-style-type: none;
+	font-size: 30px;
+}
