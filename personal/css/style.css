@@ -3,3 +3,19 @@
 	width: 16em;
 	border-radius: 8em
 }
+
+#project {
+	text-align: center
+}
+
+#link {
+	color: #545454;
+}
+
+#tools {
+	color: #C0C0C0;
+}
+
+#textLead {
+	font-size: 24px
+}
