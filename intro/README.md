@@ -87,4 +87,23 @@ In both lists the "li" tag stands for list item and is used to add items to a li
 ####DIV and SPAN
     <div>This goes up top</div>
     <div>This goes<span> down low</span></div>
-The "div" tag is used to divide the page into parts, while the span tag is used to wrap around content for easier styling usign CSS
+The "div" tag is used to divide the page into parts, while the span tag is used to wrap around content for easier styling using CSS
+
+####Tables
+    <table>
+      <thead>
+        <tr>
+          <th>Day</th>
+          <th>Year</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Jan 2.</td>
+          <td>1994</td>
+        </tr>
+      </tbody>
+    </table>
+
+Tables are made up of two distinct parts like a html document, the head and body called thead and tbody respectively.
+The "tr" tag make a row and the "th" and "td" tags make columns in the head and body.
