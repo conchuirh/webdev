@@ -107,3 +107,20 @@ The "div" tag is used to divide the page into parts, while the span tag is used 
 
 Tables are made up of two distinct parts like a html document, the head and body called thead and tbody respectively.
 The "tr" tag make a row and the "th" and "td" tags make columns in the head and body.
+
+CSS
+------
+Cascading Style Sheets (CSS) is used to style HTML. CSS is made up of attributes that can be assigned values that will modify HTML.
+For example text has the attribute "font-size" that can be assigned a pixel size value like a normal text editor, so for 12 point font it would be "font-size: 12px"
+
+CSS can be used in three ways, Inline, in "style tags" within the head of a page, or in a external css file
+
+####Inline
+Inline styling works by inserting the style into the opening tag of an HTML element.
+
+    <p style="font-size: 24px">This is text.</p>
+This will create a paragraph with text size 24 pixels.
+
+
+JavaScript
+------
