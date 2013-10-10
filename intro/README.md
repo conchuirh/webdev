@@ -85,6 +85,6 @@ The second kind is ordered list which creates a numbered list
 In both lists the "li" tag stands for list item and is used to add items to a list.
 
 ####DIV and SPAN
-  <div>This goes up top</div>
-  <div>This goes<span> down low</span></div>
+    <div>This goes up top</div>
+    <div>This goes<span> down low</span></div>
 The "div" tag is used to divide the page into parts, while the span tag is used to wrap around content for easier styling usign CSS
