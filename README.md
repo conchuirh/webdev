@@ -7,6 +7,8 @@ and introduce ways in which students can expand their web development knowledge 
 be using Twitter Bootstrap and jQuery to facilitate rapid development. Students will also learn how to use 
 Amazon AWS, a suite of powerful tools for building scalable web infrastructures.
 
+[Intro](https://github.com/conchuirh/webdev/tree/master/intro)
+
 [Create a personal website](https://github.com/conchuirh/webdev/tree/master/personal)
 ------
 We'll start off our exploration of HTML and CSS by building a personal website to showcase projects.

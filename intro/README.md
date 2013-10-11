@@ -121,6 +121,28 @@ Inline styling works by inserting the style into the opening tag of an HTML elem
     <p style="font-size: 24px">This is text.</p>
 This will create a paragraph with text size 24 pixels.
 
+####Style tag
+Place a style tag in the head of a HTML file and you can write CSS directly inside
+
+    <head>
+      <style>
+        p {
+          font-size: 24px
+        }
+      </style>
+    </head>
+
+####CSS File
+Create a CSS file with the desired styles then import the file using the link tag
+#####HTML
+    <head>
+      <link rel="stylesheet" media="screen" href="/path/to/css/file">
+    </head>
+#####CSS
+    p {
+      font-size: 24px
+    }
+
 
 JavaScript
 ------
